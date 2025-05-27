@@ -453,7 +453,7 @@ hr{
     gap: 3em;
     color: var(--color-bg);
     background-color: #fff;
-    margin: 1;
+    margin: 1em;
 }
 .resume-choice .options{
     display: flex;
