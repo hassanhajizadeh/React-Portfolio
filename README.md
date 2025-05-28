@@ -1,26 +1,28 @@
 # React Portfolio
 
-A modern, responsive front-end portfolio built with React.js and Vite.
----
-# [DEMO](https://hassanhajizadeh.netlify.app)
+## A modern, responsive front-end portfolio built with React.js and Vite.
+
+# [DEMO](https://hassanhajizadeh.ir)
 
 ## scrrenshot
+
 ![alt text](screenShot.png)
+
 ## Features
 
-- ⚡ Built with React 19 for fast, interactive UIs
-- ⚙️ Vite for instant dev server & optimized builds
-- 🎨 Uses FontAwesome for rich iconography
-- 📱 Fully responsive design for all devices
-- 🧩 Component-based architecture for maintainability
-- 🧹 Linting with ESLint and React Hooks best practices
+-   ⚡ Built with React 19 for fast, interactive UIs
+-   ⚙️ Vite for instant dev server & optimized builds
+-   🎨 Uses FontAwesome for rich iconography
+-   📱 Fully responsive design for all devices
+-   🧩 Component-based architecture for maintainability
+-   🧹 Linting with ESLint and React Hooks best practices
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (v18 or higher recommended)
-- npm
+-   Node.js (v18 or higher recommended)
+-   npm
 
 ### Installation
 
@@ -60,17 +62,17 @@ npm run lint
 
 ## Tech Stack
 
-- [React](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [FontAwesome](https://fontawesome.com/)
-- [ESLint](https://eslint.org/)
+-   [React](https://react.dev/)
+-   [Vite](https://vitejs.dev/)
+-   [FontAwesome](https://fontawesome.com/)
+-   [ESLint](https://eslint.org/)
 
 ## Project Structure
 
-- `/src` — Main source code (components, views, styles, etc.)
-- `/public` — Static assets and the main HTML template
-- `vite.config.js` — Vite configuration
-- `eslint.config.js` — ESLint configuration
+-   `/src` — Main source code (components, views, styles, etc.)
+-   `/public` — Static assets and the main HTML template
+-   `vite.config.js` — Vite configuration
+-   `eslint.config.js` — ESLint configuration
 
 ## Customization
 
